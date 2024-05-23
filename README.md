@@ -1,4 +1,5 @@
 
+
 # Churn Analysis Project
 Duration: [04/2024] – [05/2024]
 
@@ -28,4 +29,8 @@ Successfully identified critical churn indicators, leading to a 15% reduction in
 Improved stakeholder engagement and understanding through intuitive and interactive visualizations.
 Enhanced the decision-making process by providing real-time data insights and predictive analytics.
 
+
+=======
+# Churn-Analysis-using-PowerBI
+Churn Analysis Project
 
